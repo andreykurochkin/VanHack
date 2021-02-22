@@ -27,37 +27,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{0E8950AD-66FA-4A3D-85E0-4440991278AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{0D31CCD0-AB04-4626-B206-346D66855B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{0D31CCD0-AB04-4626-B206-346D66855B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirdsTests", "MigratoryBirdsTests\MigratoryBirdsTests.csproj", "{B7B57DA3-4054-4721-8A1D-B10CEB670935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirdsTests", "MigratoryBirdsTests\MigratoryBirdsTests.csproj", "{B7B57DA3-4054-4721-8A1D-B10CEB670935}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayoftheProgrammer", "DayoftheProgrammer\DayoftheProgrammer.csproj", "{6CDF671D-62F4-4359-B27F-F2AB65668EB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayoftheProgrammer", "DayoftheProgrammer\DayoftheProgrammer.csproj", "{6CDF671D-62F4-4359-B27F-F2AB65668EB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayoftheProgrammerTests", "DayoftheProgrammerTests\DayoftheProgrammerTests.csproj", "{623BD0F2-3606-4718-9369-68E04756CDC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayoftheProgrammerTests", "DayoftheProgrammerTests\DayoftheProgrammerTests.csproj", "{623BD0F2-3606-4718-9369-68E04756CDC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{367B961B-414A-461D-ACC1-584D160920EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{367B961B-414A-461D-ACC1-584D160920EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivisionTests", "SubarrayDivisionTests\SubarrayDivisionTests.csproj", "{C68E44FC-CA25-411C-BCEB-DC10415BD08A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivisionTests", "SubarrayDivisionTests\SubarrayDivisionTests.csproj", "{C68E44FC-CA25-411C-BCEB-DC10415BD08A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTrees", "BinarySearchTrees\BinarySearchTrees.csproj", "{1D8C2870-2B44-4ACB-A02D-9759123C1E01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchTrees", "BinarySearchTrees\BinarySearchTrees.csproj", "{1D8C2870-2B44-4ACB-A02D-9759123C1E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreesTests", "BinarySearchTreesTests\BinarySearchTreesTests.csproj", "{0605572C-D8FA-47B7-B4B4-EB9DDA8FB30C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchTreesTests", "BinarySearchTreesTests\BinarySearchTreesTests.csproj", "{0605572C-D8FA-47B7-B4B4-EB9DDA8FB30C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesbyMatch", "SalesbyMatch\SalesbyMatch.csproj", "{DAECCFBD-C48C-4479-961D-F240B2CB9545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesbyMatch", "SalesbyMatch\SalesbyMatch.csproj", "{DAECCFBD-C48C-4479-961D-F240B2CB9545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesbyMatchTests", "SalesbyMatchTests\SalesbyMatchTests.csproj", "{7A764A7A-8DC3-458A-B23A-CA3B074DE89D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesbyMatchTests", "SalesbyMatchTests\SalesbyMatchTests.csproj", "{7A764A7A-8DC3-458A-B23A-CA3B074DE89D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLinkedLists", "MoreLinkedLists\MoreLinkedLists.csproj", "{C3895EFD-A1EE-40A9-BEFA-2F485E209B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreLinkedLists", "MoreLinkedLists\MoreLinkedLists.csproj", "{C3895EFD-A1EE-40A9-BEFA-2F485E209B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLinkedListsTests", "MoreLinkedListsTests\MoreLinkedListsTests.csproj", "{999051CD-D5AB-4C8C-A76A-B93658E2BFE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreLinkedListsTests", "MoreLinkedListsTests\MoreLinkedListsTests.csproj", "{999051CD-D5AB-4C8C-A76A-B93658E2BFE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningTimeandComplexity", "RunningTimeandComplexity\RunningTimeandComplexity.csproj", "{AC2B5C04-08EA-420D-921B-00FC390340EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningTimeandComplexity", "RunningTimeandComplexity\RunningTimeandComplexity.csproj", "{AC2B5C04-08EA-420D-921B-00FC390340EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningTimeandComplexityTests", "RunningTimeandComplexityTests\RunningTimeandComplexityTests.csproj", "{7124E4E4-C79A-4898-9D41-D2A51935056F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningTimeandComplexityTests", "RunningTimeandComplexityTests\RunningTimeandComplexityTests.csproj", "{7124E4E4-C79A-4898-9D41-D2A51935056F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLogic", "NestedLogic\NestedLogic.csproj", "{DBFF9799-2388-4101-A63A-ADC096E18E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLogic", "NestedLogic\NestedLogic.csproj", "{DBFF9799-2388-4101-A63A-ADC096E18E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLogicTests", "NestedLogicTests\NestedLogicTests.csproj", "{DA7A7991-4284-4546-A760-C8DBD5480047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLogicTests", "NestedLogicTests\NestedLogicTests.csproj", "{DA7A7991-4284-4546-A760-C8DBD5480047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolving", "ProblemSolving\ProblemSolving.csproj", "{0EE06846-D58E-4DB7-BA0E-78EC58BAF379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolvingTests", "ProblemSolvingTests\ProblemSolvingTests.csproj", "{AD0CF95D-114B-4841-BCF1-54EDD8983DBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +181,14 @@ Global
 		{DA7A7991-4284-4546-A760-C8DBD5480047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7A7991-4284-4546-A760-C8DBD5480047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7A7991-4284-4546-A760-C8DBD5480047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE06846-D58E-4DB7-BA0E-78EC58BAF379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE06846-D58E-4DB7-BA0E-78EC58BAF379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE06846-D58E-4DB7-BA0E-78EC58BAF379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE06846-D58E-4DB7-BA0E-78EC58BAF379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0CF95D-114B-4841-BCF1-54EDD8983DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0CF95D-114B-4841-BCF1-54EDD8983DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0CF95D-114B-4841-BCF1-54EDD8983DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0CF95D-114B-4841-BCF1-54EDD8983DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
