@@ -35,8 +35,5 @@ namespace ProblemSolving.CountingValleys {
             }
             return result;
         }
-//12
-//DDUUDDUDUUUD
-
     }
 }
